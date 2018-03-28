@@ -1,0 +1,34 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+
+h1{
+  color:white;
+  font-family: "Lato";
+  font-size: 50px;
+  font-weight: 300;
+}
+
+ul{
+  color:white;
+  text-align: center;
+}
+
+header{
+  margin: 40px;
+}
+
+button{
+  margin-top: 40px;
+  width:100px;
+  height:40px;
+  margin-right: 20px;
+  font-size: .9rem;
+
+}
+
+
+button:hover{
+  cursor:pointer;
+}
